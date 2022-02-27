@@ -1094,7 +1094,7 @@ html {
 
 body {
   background: #0057ff;
-  background: linear-gradient(71deg, #0057ff 0%, black 45%, black 51%, #cc0000 100%);
+  background-image: linear-gradient(70deg, #091439 0%, #1630a7 33%, #412791 67%, #290000 100%);
   background-repeat: repeat, no-repeat;
   background-size: auto, 100% 100%;
   background-attachment: fixed;
